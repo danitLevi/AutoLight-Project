@@ -29,3 +29,5 @@ A Dashboard warning lights recognition system showing detailed information about
 <img width="900"  src="https://user-images.githubusercontent.com/50530087/150962255-94486dec-035f-4b6f-b027-5515bc431483.JPG">
 ![manage](https://user-images.githubusercontent.com/50530087/150962348-364617af-e9af-4b9a-8eea-dd733ddbc361.JPG)
 ![new](https://user-images.githubusercontent.com/50530087/150962404-75d9b88b-4ddd-4b65-be27-58c187807328.JPG)
+
+*AutoLight DB is currently unavailable.
