@@ -12,7 +12,7 @@ A Dashboard warning lights recognition system showing detailed information about
   - Warning light name
   - Warning light data contained text
 - Manage warning lights data(available only for admin) :
-- Edit warning light data.
+  - Edit warning light data.
   - Add new warning light.
   - Delete warning light data.
 - Save favorites warning lights 
